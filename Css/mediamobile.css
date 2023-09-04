@@ -1,0 +1,21 @@
+header .div2 h3{
+    font-size: 1.5rem;
+    line-height: 30px;
+
+}
+header .div2 h1{
+    font-size: 2.5rem;
+    line-height: 45px;
+    
+}
+header .div2 button{
+    padding: 12px 22px;
+
+}
+
+main #leftside,main #rightside{
+    float: none;
+    width: 100%;
+  
+    
+  }
